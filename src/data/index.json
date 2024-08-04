@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Devops",
+      "description": "I have extensive DevOps experience, utilizing Jenkins, Docker, Kubernetes, and AWS for CI/CD, automation, and scalable deployments."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Web Development",
+      "description": "I excel in web development with skills in React, Node.js, Express, and full-stack projects, including deployment on AWS."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Data Science",
+      "description": "I specialize in data science, using Python and machine learning for projects like CNN-based terrain detection and face recognition."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "DSA",
+      "description": "I’m skilled in Data Structures and Algorithms (DSA) with expertise in C++, Java, and Python for solving complex problems."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Resume ATS",
+      "description": "The Smart Resume Collection and Filtering System aims to revolutionize the recruitment process by leveraging AI-powered algorithms to streamline the collection, parsing, analysis, and matching of resumes with job descriptions",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Railway-Management-System",
+      "description": "Developed a DBMS project which is based on IRCTC app using php . where a user can book , cancel orcheck the availability of tickets or a admin can schedule a train etc.",
+      "link": "View In Github "
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Devops CI/CD",
+      "description": "Install Jenkins, configure Docker as agent, set up ci/cd, deploy applications to k8s. Jenkins Pipeline forJava based application using Maven, SonarQube, Argo CD, Helm and Kubernetes",
+      "link": "View In Github"
+    }
+  ]
+  
+}
